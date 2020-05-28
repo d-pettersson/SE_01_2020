@@ -3,6 +3,7 @@
 This repo is the written examination for the SE_01 module.
 
 1. **Gems challenge**
+
 To run the code, use a command line and copy this:
 ``python gems.py``
 
